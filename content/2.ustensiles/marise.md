@@ -1,5 +1,5 @@
-# Marise
+# Maryse
 
-![Marise](/marise.jpg)
+![Maryse](/maryse.jpg)
 
 Emplacement : Tiroir de la cuisine
