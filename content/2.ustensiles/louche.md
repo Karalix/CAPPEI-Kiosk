@@ -1,5 +1,5 @@
-# Fouet
+# Louche
 
-![Fouet](/fouet.jpg)
+![Louche](/louche.jpg)
 
 Emplacement : Tiroir de la cuisine
