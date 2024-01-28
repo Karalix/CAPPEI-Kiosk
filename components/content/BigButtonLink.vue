@@ -8,7 +8,7 @@ defineProps({
     type: Boolean,
     default: false,
   },
-  icon: {
+  img: {
     type: String,
     default: '',
   },
@@ -18,7 +18,7 @@ defineProps({
 <template>
   <span class="not-prose">
     <NuxtLink :to="href" :external="external" class="inline-flex items-center gap-1 text-white bg-gray-800 dark:bg-gray-200 dark:text-gray-950 px-3 py-4 rounded no-underline">
-      <Icon v-if="icon" :name="icon" class="w-4 h-4" />
+      <img v-if="img" :src="img" class="w-6 h-6" />
       <ContentSlot :use="$slots.default" unwrap="p" />
     </NuxtLink>
   </span>
