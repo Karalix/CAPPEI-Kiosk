@@ -8,6 +8,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@vite-pwa/nuxt": "^0.4.0",
     "content-wind": "latest",
     "nuxt": "latest"
   }

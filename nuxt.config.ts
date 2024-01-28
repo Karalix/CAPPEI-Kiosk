@@ -1,3 +1,9 @@
 export default defineNuxtConfig({
-  extends: 'content-wind'
+  extends: 'content-wind',
+  modules: [
+    '@vite-pwa/nuxt'
+  ],
+  pwa: {
+    /* PWA options */
+  }
 })
