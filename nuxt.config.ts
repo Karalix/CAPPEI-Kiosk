@@ -17,6 +17,9 @@ export default defineNuxtConfig({
       name: 'CAPPEI-Kiosk',
       short_name: 'CAPPEI-Kiosk',
       theme_color: '#ffffff',
+      start_url: '/',
+      display: 'standalone',
+      prefer_related_applications: false,
       icons: [
         {
           src: 'pwa-192x192.png',
