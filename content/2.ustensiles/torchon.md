@@ -2,6 +2,6 @@
 
 Emplacement : Placard linge
 
-![tiroir de la cuisine](/tiroirdelacuisine.jpg)
+<!--![Placard linge](/placardlinge.jpg)-->
 
 ![Torchon](/torchon.jpg)

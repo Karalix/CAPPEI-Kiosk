@@ -2,4 +2,6 @@
 
 Emplacement : Tiroir de la cuisine
 
-![tiroir de la cuisine](/tiroirdelacuisine.jpg)
+<!--![tiroir de la cuisine](/tiroirdelacuisine.jpg)-->
+
+![cuilliereacafe.jpg](/cuilliereacafe.jpg)

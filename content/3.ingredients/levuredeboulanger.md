@@ -3,3 +3,6 @@
 Emplacement : Placard des denrées - coté droit
 
 ![placarddenreedroit.jpg](/placarddenreedroit.jpg)
+
+
+![Levure de boulanger](/levureboulanger.jpg)
