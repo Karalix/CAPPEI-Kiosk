@@ -1,5 +1,7 @@
 # Saladier
 
-![Saladier.jpg](/saladier.jpg)
-
 Emplacement : Placard de la cuisine
+
+![Placard de la cuisine](/placardcuisine.jpg)
+
+![Saladier.jpg](/saladier.jpg)

@@ -1,4 +1,4 @@
-# Sucre vanillé
+# Levure de boulanger
 
 Emplacement : Placard des denrées - coté droit
 

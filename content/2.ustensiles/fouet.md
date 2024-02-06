@@ -1,5 +1,7 @@
 # Fouet
 
-![Fouet](/fouet.jpg)
-
 Emplacement : Tiroir de la cuisine
+
+![Tiroir de la cuisine](/tiroirdelacuisine.jpg)
+
+![Fouet](/fouet.jpg)

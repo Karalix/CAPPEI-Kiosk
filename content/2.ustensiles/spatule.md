@@ -1,5 +1,7 @@
 # Spatule
 
-![Spatule.jpg](/spatule.jpg)
-
 Emplacement : Tiroir de la cuisine
+
+![Tiroir de la cuisine](/tiroirdelacuisine.jpg)
+
+![Spatule.jpg](/spatule.jpg)

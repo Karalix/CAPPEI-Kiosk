@@ -1,4 +1,4 @@
-# Sucre vanillé
+# Sucre
 
 Emplacement : Placard des denrées - coté droit
 
