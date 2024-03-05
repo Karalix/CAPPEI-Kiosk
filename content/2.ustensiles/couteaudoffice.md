@@ -1,6 +1,6 @@
 # Couteau d'office
 
-Emplacement : Tiroir de la cuisine
-<!--![tiroir de la cuisine](/tiroirdelacuisine.jpg)-->
+Emplacement : Tiroir à objets tranchant/piquants
+<!--![tiroir à objets tranchants/piquants](/tiroirobjettranchants.jpg)-->
 
 ![couteaudoffice.jpg](/couteaudoffice.jpg)
