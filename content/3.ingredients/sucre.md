@@ -2,4 +2,4 @@
 
 Emplacement : Placard des denrées - coté droit
 
-![placarddenreedroit.jpg](/placarddenreedroit.jpg)
+![placarddenreedroit.jpg](/placarddenreedroitenhaut.jpg)
