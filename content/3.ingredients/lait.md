@@ -2,10 +2,12 @@
 
 Emplacement :
 
-- Réfrigérateur (si déjà ouvert)
+- Placard des denrées - coté gauche (si c'est une nouvelle bouteille)
+
+![placarddenréegauche.jpg](/placarddenr%C3%A9egauche.jpg)
 
 ou
 
-- Placard des denrées - coté gauche
+- Réfrigérateur (si déjà ouvert)
 
-![placarddenréegauche.jpg](/placarddenr%C3%A9egauche.jpg)
+![Réfrigérateur.jpg](/frigo.jpg)
