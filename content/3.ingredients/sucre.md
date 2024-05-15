@@ -1,4 +1,4 @@
-# Sucre
+# Sucre roux
 
 Emplacement : Placard des denrées - coté droit
 

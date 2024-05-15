@@ -1,7 +1,166 @@
-# Fouet
+---
+navigation:
+  title: Ustensiles
+layout: full-width
+head:
+  description: Ustensiles de cuisine
+  image: https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA
+---
 
-Emplacement : Tiroir de la cuisine
+# Ustensiles
 
-![Tiroir de la cuisine](/tiroircuisine.jpg)
+<!--::big-button-link{href="ustensiles/assiette"}
+Assiette
+::
 
-![Fouet](/fouet.jpg)
+<br/>
+<br/>
+
+::big-button-link{href="ustensiles/batteur" img="/batteur.jpg"}
+Batteur
+::
+
+:br
+
+:br
+
+::big-button-link{href="ustensiles/casserole" img="/casserole.jpg"}
+Casserole
+::-->
+
+:br
+
+:br
+
+::big-button-link{href="ustensiles/couteaudoffice" img="/couteaudoffice.jpg"}
+Couteau d'office
+::
+
+:br
+
+:br
+
+::big-button-link{href="ustensiles/cuilliereacafe" img="/cuilliereacafe.jpg"}
+Cuillère à café
+::
+
+:br
+
+:br
+
+<!--::big-button-link{href="ustensiles/emportepiece" img="/emportepiece.jpg"}
+Emporte pièce
+::
+
+<br/>
+<br/>-->
+
+::big-button-link{href="ustensiles/fouet" img="/fouet.jpg"}
+Fouet
+::
+
+:br
+
+:br
+
+<!--::big-button-link{href="ustensiles/louche" img="/louche.jpg"}
+Louche
+::
+
+<br/>
+<br/> -->
+
+::big-button-link{href="ustensiles/marise" img="/maryse.jpg"}
+Marise
+::
+
+:br
+
+:br
+
+<!--::big-button-link{href="ustensiles/moulepasteis" img="/moulepasteis.jpg"}
+Moule à Pasteis
+::
+
+:br
+
+:br-->
+
+::big-button-link{href="ustensiles/papiersulfurise" img="/papiercuisson.jpg"}
+Papier sulfurisé
+::
+
+<br/>
+<br/>
+
+<!-- ::big-button-link{href="ustensiles/pinceau" img="/pinceau.jpg"}
+Pinceau
+::-->
+
+::big-button-link{href="ustensiles/plancheadecouper" img="/plancheadecouper.jpg"}
+Planche à découper
+::
+
+:br
+
+:br
+
+::big-button-link{href="ustensiles/plaquedecuisson" img="/plaquedecuisson.jpg"}
+Plaque à pâtisserie
+::
+
+<!-- ::big-button-link{href="ustensiles/poeleacrepe" img="/poeleacrepe.jpg"}
+Poêle à crêpe
+::
+
+<br/>
+<br/>-->
+
+:br
+
+:br
+
+::big-button-link{href="ustensiles/poubelledetable" img="/poubelledetable.jpg"}
+Poubelle de table
+::
+
+:br
+
+:br
+
+::big-button-link{href="ustensiles/ramequin" img="/ramequin.jpg"}
+Ramequin
+::
+
+:br
+
+:br
+
+<!--::big-button-link{href="ustensiles/rouleauapatisserie" img="/rouleauapatisserie.jpg"}
+Rouleau à pâtisserie
+::
+<br/>
+<br/> -->
+
+::big-button-link{href="ustensiles/saladier" img="/saladier.jpg"}
+Saladier
+::
+
+
+<!--::big-button-link{href="ustensiles/spatule" img="/spatule.jpg"}
+Spatule
+::
+
+<br/>
+<br/>
+
+::big-button-link{href="ustensiles/torchon" img="/torchon.jpg"}
+Torchon
+::
+
+<br/>
+<br/>
+
+::big-button-link{href="ustensiles/verredoseur" img="/verre doseur.jpg"}
+Verre doseur-->
+::

@@ -1,4 +1,4 @@
-# Plaque de cuisson
+# Plaque à pâtisserie
 
 Emplacement : Placard de la cuisine
 
